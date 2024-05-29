@@ -1,0 +1,104 @@
+/* BACKGROUND COLOR */
+.p1 {
+    background-color: salmon;
+    height: 150px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+
+.p2 {
+    background-color: rgb(250,128,114);
+    opacity: 0.5;
+    margin: 30px 60px 90px 120px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+    padding-left: 80px;
+}
+
+.p3 {
+    background-color: rgba(250,128,114,0.2);
+    width: 60%;
+    padding: 10px 20px 30px 40px;
+}
+
+.p4 {
+    background-color: #fa8072;
+    opacity: 0.3;
+}
+
+/* BORDER */
+
+.solid {
+    border: 5px solid tomato;
+}
+
+.dotted {
+    border: 5px dotted teal;
+}
+
+.dashed {
+    border: 5px dashed red;
+}
+
+.double {
+    border: 5px double green;
+}
+
+.groove {
+    border: 5px groove purple;
+}
+
+.ridge {
+    border: 5px ridge dodgerblue;
+}
+
+.inset {
+    border: 5px inset goldenrod;
+}
+
+.outset {
+    border: 5px outset yellow;
+}
+
+.border-radius {
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+/* OVERFLOW */
+.overflow {
+    width: 300px;
+    box-shadow: 10px 20px 30px black;
+}
+
+.hidden {
+    overflow: scroll;
+    height: 100px;
+}
+
+/* BOX Sizing */
+.div1 {
+    width: 300px;
+    height: 100px;
+    border: 1px solid blue;
+}
+
+.div2 {
+    box-sizing: border-box;
+    width: 300px;
+    height: 100px;
+    padding: 50px;
+    border: 1px solid red;
+}
+
+/* CENTER ELEMENT */
+.center-element {
+    border: 1px solid green;
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,23 @@
+h1{color: magenta;}
+em{color: chocolate;}
+strong{color: maroon;}
+div{color: green;}
+
+/* Element as a Selector */
+p{color: red;}
+
+/* Class as a Selector */
+.txt1{color: blue;}
+.txt2{color: green;}
+.txt3{color: blueviolet;}
+
+/* Id as a selector */
+#txt4{
+    color: magenta;
+}
+#txt5{
+    color: maroon;
+}
+#txt6{
+    color: darkmagenta;
+}

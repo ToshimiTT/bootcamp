@@ -1,0 +1,19 @@
+table, th, td{
+    border: 2px solid red;
+    width: 30%;
+    /* empty-cells: hide; */
+    /* border-spacing: 5px 10px; */
+    /* border-collapse: separate; */
+    /* Border-collapse: collapse; */
+    border-collapse: separate;
+}
+.row1{
+    background-color: black;
+    color: green;
+}
+.surname{
+    background-color: red;
+}
+.email{
+    color: blue;
+}

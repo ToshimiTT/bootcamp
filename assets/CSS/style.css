@@ -1,0 +1,9 @@
+/* BACKGROUND */
+.background-container {
+    width: 100%;
+    height: 50vh;
+    border: 1px solid red;
+    background-image: url(../images/reddot.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}

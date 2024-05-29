@@ -1,0 +1,85 @@
+/* element selector */
+h1{
+    color: salmon;
+}
+
+/* id selector */
+#color-1 {
+    font-family: sans-serif;
+    color: brown;
+    font-size: 10px;
+    font-weight: bolder;
+    font-style: italic;
+    text-transform: capitalize;
+    text-decoration: overline;
+}
+
+/* class selector */
+.color-2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    font-size: 5%;
+    font-weight: bold;
+    font-style: normal;
+    text-transform: lowercase;
+    text-decoration: underline;
+}
+
+/* class selector */
+.color-3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+    font-size: 15%;
+    font-weight: lighter;
+    font-style: oblique;
+    text-transform: uppercase;
+    text-decoration: line-through;
+}
+
+/* Element selector */
+h2 {
+    text-align: right;
+    color: brown;
+}
+
+h3 {
+    text-align: center;
+    color: brown;
+}
+
+h4 {
+    text-align: left;
+    color: brown;
+}
+
+#shadow {
+    text-shadow: 2px 3px 1px salmon;
+}
+
+/* TEXT - indent */
+
+.text-indent {
+    width: 500px;
+}
+
+.text-indent-px {
+    text-indent: 50px;
+}
+
+.text-indent-perc {
+    text-indent: 10%;
+}
+
+.text-indent-em {
+    text-indent: 5em;
+}
+
+/* LETTER SPACING */
+.letter-spacing {
+    letter-spacing: 5px;
+}
+
+/* WORD SPACING */
+.word-spacing {
+    word-spacing: 15px;
+}
